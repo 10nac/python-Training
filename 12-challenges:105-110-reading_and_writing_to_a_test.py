@@ -1,0 +1,7 @@
+##file=open("countries.txt","w")
+##file.write("sweden\n")
+##file.write("iceland\n")
+##file.write("spain\n")
+##file.close()
+##file=open("countries.txt","r")
+##print(file.read())
