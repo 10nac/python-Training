@@ -1,1 +1,1 @@
-its about begin that how to usr git properly
+its about begin that how to use git properly
